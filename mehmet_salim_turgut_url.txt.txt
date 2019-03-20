@@ -1,6 +1,0 @@
-github:
-
-https://github.com/mehmetsalim/msalim_cs210_indv_proj
-
-nbviewer:
-https://nbviewer.jupyter.org/github/mehmetsalim/msalim_cs210_indv_proj/blob/master/mehmet_salim_turgut_indv_proj.ipynb
